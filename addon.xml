@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="script.pulsar.KickAssTorrents" name="Pulsar KickAssTorrents Provider" version="0.2" provider-name="cpkiller">
+<addon id="script.pulsar.AssTorrents" name="Pulsar AssTorrents Provider" version="0.3" provider-name="teitr">
 	<requires>
 		<import addon="xbmc.python" version="2.12.0"/>
 		<import addon="plugin.video.pulsar" version="0.2"/>
@@ -8,7 +8,7 @@
 		<provides>executable</provides>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">Pulsar KickAssTorrents Provider</summary>
+		<summary lang="en">Pulsar AssTorrents Provider</summary>
 		<language></language>
 		<platform>all</platform>
 	</extension>
